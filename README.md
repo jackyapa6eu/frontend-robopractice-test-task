@@ -34,3 +34,23 @@
 
 4. Первая и последняя колонка (User and Monthly total) должны быть приклеены к своим сторонам, то есть при горизонтальном скролле они не должны скрываться;
 5. Колонки таблицы должны быть resizeable;
+
+
+## Установка проекта
+```
+git clone https://github.com/jackyapa6eu/frontend-robopractice-test-task.git
+cd frontend-robopractice-test-task
+npm install
+```
+
+## Запуск
+```
+npm run server
+npm run start
+
+```
+
+### Сборка
+```
+npm run build
+```
